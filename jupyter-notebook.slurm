@@ -1,3 +1,4 @@
+# This specialized document is an example SLURM script for running a Jupyer notebook interactively on a HPC system. 
 #!/bin/bash -l
 #SBATCH --job-name=jupyter-notebook
 #SBATCH --nodes=1
