@@ -1,4 +1,2 @@
 # Computational Chemistry For Experimentalists
-This repository includes "computational labs" intended to teach topics in computational chemistry, molecular simulation, and related areas. Most labs are provided as Jupyter notebooks. 
-
-Special Instructions for TCU Users: To run a jupyter notebook on hpcl1, launch google-chrome from the head node, and submit the batch job juptyer-notebook.slurm. Once the job is running, look in the output file juptyer-notebook-JOBID.out for the line "copy and paste one of these URLs". Copy and paste the URL into chrome, then navigate to the desired notebook. 
+This free repository of worked examples complements the material in "Computational Chemistry for Experimentalists", available at https://shop.elsevier.com/books/computational-chemistry-for-experimentalists/janesko/978-0-443-34211-0 . Each example treats material from one chapter. Examples are a mix of open Python platforms (PySCF) and Gaussian 16. 
